@@ -10,7 +10,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for CodeTopics you will find:
 * :x: Source code (not available)
-* :white_check_mark: Binaries for the project (available)
+* :white_check_mark: [Binaries for the project](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-CodeTopics/tree/master/Binaries) (available)
 * :x: Vagrant script to create the Virtual machine containing the tool (not available)
 * :x: Virtual machine containing the tool (not available)
 
