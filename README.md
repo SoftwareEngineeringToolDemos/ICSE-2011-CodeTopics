@@ -10,7 +10,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for CodeTopics you will find:
 * :x: Source code (not available)
-* :x: Binaries for the project (not available)
+* :white_check_mark: Binaries for the project (available)
 * :x: The original tool (not available)
 * :x: Vagrant script to create the Virtual machine containing the tool (not available)
 * :x: Virtual machine containing the tool (not available)
