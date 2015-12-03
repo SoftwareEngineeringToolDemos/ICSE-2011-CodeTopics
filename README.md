@@ -1,6 +1,6 @@
 # ICSE-2011-CodeTopics
 
-# Additional Acknowledgements #
+# Acknowledgements #
 
 This repository is contains information related to the tool CodeTopics presented International Conference On Software Engineering, 2011. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=1985793.1985988).
 
